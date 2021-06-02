@@ -1,0 +1,14 @@
+{
+  "name": "TTP229B",
+  "version": "0.0.1",
+  "license": "Unlicense",
+  "keywords": "ttp229, ttp229b, touch",
+  "description": "Read TTP229B touch modules with 16 input buttons.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jayanta525/TTP229B.git"
+  },
+  "frameworks": "arduino",
+  "platforms": ["atmelavr", "atmelsam", "ststm32", "espressif8266", "espressif32", "samd"]
+}
